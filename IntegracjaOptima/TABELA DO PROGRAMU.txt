@@ -1,0 +1,9 @@
+CREATE TABLE [CDN].[Dokumenty_DO_CSV](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[NumerDok] [int] NOT NULL,
+	[TypDok] [int] NOT NULL,
+	[Date] [datetime] NOT NULL,
+	[App] [varchar](50) NOT NULL,
+	[NazwaDokumentu] [varchar](400) NOT NULL,
+	[CzyWyslanoDokumentZwrotny] [varchar](50) NOT NULL,
+) ON [PRIMARY]

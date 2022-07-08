@@ -1,0 +1,576 @@
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe.config
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.dll
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.dll
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.dll
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.dll
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.dll
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.dll
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.xml
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.xml
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.xml
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.xml
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.xml
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.xml
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CoreCompileInputs.cache
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CopyComplete
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe.config
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.dll
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.dll
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.dll
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.dll
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.dll
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.dll
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.xml
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.xml
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.xml
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.xml
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.xml
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.xml
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.AssemblyReference.cache
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CoreCompileInputs.cache
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CopyComplete
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.AssemblyReference.cache
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CoreCompileInputs.cache
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCP.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe.config
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCPnet.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CopyComplete
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCP.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe.config
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCPnet.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CoreCompileInputs.cache
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CopyComplete
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient — kopia — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.AssemblyReference.cache
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCP.exe
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe.config
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.dll
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.dll
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.dll
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.dll
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.dll
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.dll
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.dll
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCPnet.dll
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.xml
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.xml
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.xml
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.xml
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.xml
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.xml
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.xml
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CoreCompileInputs.cache
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CopyComplete
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient —\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCP.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe.config
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCPnet.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CoreCompileInputs.cache
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CopyComplete
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.AssemblyReference.cache
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCP.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe.config
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCPnet.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.AssemblyReference.cache
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CoreCompileInputs.cache
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CopyComplete
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — — kopia — kopia\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCP.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe.config
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCPnet.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CoreCompileInputs.cache
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CopyComplete
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — — działa\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCP.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe.config
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCPnet.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CoreCompileInputs.cache
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CopyComplete
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient — —\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.AssemblyReference.cache
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.AssemblyReference.cache
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CoreCompileInputs.cache
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCP.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe.config
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.pdb
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCPnet.dll
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kozub\Desktop\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CopyComplete
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCP.exe
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe.config
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.pdb
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.dll
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.dll
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.dll
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCPnet.dll
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.xml
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.xml
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.xml
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CopyComplete
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.exe
+C:\Users\User\Desktop\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.pdb
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCP.exe
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe.config
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.pdb
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCPnet.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CopyComplete
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.exe
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.pdb
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCP.exe
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe.config
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.pdb
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCPnet.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CopyComplete
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.exe
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.pdb
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCP.exe
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe.config
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.pdb
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCPnet.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CopyComplete
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.exe
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\Optima — serwer klient — — — nowa wersja aktualna — poprawana\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.pdb
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.exe
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.pdb
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCP.exe
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe.config
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.pdb
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCPnet.dll
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\praca\Ideopol\IntegracjaOptima\podział na klasy\Optima — serwer klient — — — nowa wersja aktualna — poprawan\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CopyComplete
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCP.exe
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe.config
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.exe
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\IntegracjaOptima.pdb
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.dll
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.dll
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.dll
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\WinSCPnet.dll
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\CsvHelper.xml
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\EPPlus.xml
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\Ftp.xml
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.csproj.CopyComplete
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.exe
+C:\Users\User\Desktop\IntegracjaOptimaFTP\IntegracjaOptima\IntegracjaOptima\obj\Debug\IntegracjaOptima.pdb
